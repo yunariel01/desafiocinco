@@ -11,6 +11,9 @@ body {
 footer {
     background-color: lightcyan;
 }
+label {
+    margin: 4px;
+}
 .centrar {
     text-align: center;
     margin-top: 10px;
